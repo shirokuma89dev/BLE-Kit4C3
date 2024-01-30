@@ -14,6 +14,14 @@ ESP32C3で簡単にBluetooth通信を扱えるようにしたライブラリで�
 
 [動作イメージ（Youtube）](https://youtu.be/WkrFvnKTLFU)
 
+## 動作確認済みデバイス
+
+- M5Stamp C3 Mate
+- Seeed Studio XIAO ESP32C3
+- iPhone 15(MTML3J/A, A3089)
+
+手元のデバイスが少ないのでこれだけしか動作確認できていませんが、ESP32C3なら他のデバイスでも汎用的に使えると思います。
+
 ## インストール方法
 
 2つのインストール方法があります。
