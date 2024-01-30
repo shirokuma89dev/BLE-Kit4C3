@@ -1,6 +1,6 @@
 {
     "name": "BLE-Kit4C3",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "ESP32C3でお手軽Bluetooth通信できるライブラリです。誰でも簡単に扱えます。",
     "keywords": "BLE, Bluetooth, ESP32",
     "repository":
